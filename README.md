@@ -3,7 +3,7 @@
 # 1.R
 This project involves using different statistical methods such as cluster sampling and clustering analysis in R. We use educational datasets for various analyses and visualize the results of clustering with different methods.
 
-#2.R
+# 2.R
 Statistical Sampling and Variance Analysis in R
 
 Description: This R script provides examples of statistical sampling, variance calculations, and clustering analysis. It includes:
