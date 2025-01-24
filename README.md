@@ -25,4 +25,11 @@ You can install these libraries using the following commands:
 install.packages("survey")
 install.packages("ggplot2")
 ```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this project under the terms of the license.
+
+
 # Good Luck !
